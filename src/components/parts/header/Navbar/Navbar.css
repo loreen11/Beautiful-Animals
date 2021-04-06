@@ -1,0 +1,40 @@
+ol li {
+  background: #ffe5e5;
+  padding: 5px;
+  margin-left: 35px;
+}
+
+ul li {
+  border: 5px solid #F08080;
+  background: #cce5ff;
+  margin: 12px;
+}
+ul{
+  background-color: #ADD8E6;
+  list-style-type: none;
+  margin: 5px;
+  padding: 5px;
+}
+li{
+  float: right;
+}
+a {
+  color: hotpink;
+}
+a:link, a:visited {
+  background-color: #DEB887;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+li a{
+  direction: block;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+}
+il a:hover{
+  background-color: black;
